@@ -3,7 +3,7 @@ require 'open-uri'
 require 'fileutils'
 
 LOCAL_BASE_DIR = '/netrunnercards/'
-SETS_REGEX = /-(core|trace-amount|what-lies-ahead|cyber-exodus|a-study-in-static|humanitys-shadow)\.png/
+SETS_REGEX = /-(core|trace-amount|what-lies-ahead|cyber-exodus|a-study-in-static|humanitys-shadow|creation-and-control|future-proof)\.png/
 FILE_URL_PREFIX = "http://www.cardgamedb.com"
 
 cardgamedbFiles = []
